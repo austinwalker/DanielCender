@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on a low-key development "tools and lifestyle" podcast. (open a PR and we'll talk)
 - 🤔 I’m looking for help with building a chat application with [this](https://www.npmjs.com/package/owoify-js).
 <!-- - 💬 Ask me about how to learn the cutting-edge web tools (ones so sharp they'll cut you....) -->
-<!-- - 📫 How to reach me: ... (dont) -->
+- 📫 How to reach me: [Message Me](https://twitter.com/DanielCender)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
 
