@@ -16,3 +16,6 @@
 <!-- - 📫 How to reach me: ... (dont) -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X039D58)
