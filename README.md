@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align="center">Hi there, I'm Daniel!</h2>
+<p align="center">
+<!--  <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif"> -->
+  <img src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif">
+</p>
 
-<!--
-**DanielCender/DanielCender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------
+// TODO: Link My Spotify (that's what real devs do, I think)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on construction dashboards at [CORE Construction](https://coreltd.com/)
+- 🌱 I’m currently learning how to properly use AWS Services with [Serverless](https://www.serverless.com/) and [SEED](https://seed.run/)
+- 👯 I’m looking to collaborate on a low-key development "tools and lifestyle" podcast. (open a PR and we'll talk)
+- 🤔 I’m looking for help with building a chat application with [this](https://www.npmjs.com/package/owoify-js).
+<!-- - 💬 Ask me about how to learn the cutting-edge web tools (ones so sharp they'll cut you....) -->
+<!-- - 📫 How to reach me: ... (dont) -->
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
--->
