@@ -8,7 +8,7 @@
 // TODO: Link My Spotify with a GIF (that's what real devs do, I think)
 - 🎸 [what I listen to](https://open.spotify.com/user/danieruryan)
 
-- 🔭 I’m currently working on construction dashboards at [CORE Construction](https://coreltd.com/)
+- 🔭 I’m currently working on CREtech at [Dottid](https://dottid.com/)
 - 🌱 I’m currently learning how to properly use AWS Services with [Serverless](https://www.serverless.com/) and [SEED](https://seed.run/)
 - 👯 I’m looking to collaborate on a low-key development "tools and lifestyle" podcast. (open a PR and we'll talk)
 - 🤔 I’m looking for help with building a chat application with [this](https://www.npmjs.com/package/owoify-js).
