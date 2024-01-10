@@ -5,7 +5,7 @@
 </p>
 
 --------
-// TODO: Link My Spotify with a GIF (that's what real devs do, I think)
+<!-- // TODO: Link My Spotify with a GIF (that's what real devs do, I think) -->
 - 🎸 [what I listen to](https://open.spotify.com/user/danieruryan)
 
 - 🔭 Working on CREtech at [Dottid](https://dottid.com/)
