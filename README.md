@@ -8,7 +8,7 @@
 <!-- // TODO: Link My Spotify with a GIF (that's what real devs do, I think) -->
 - 🎸 [what I listen to](https://open.spotify.com/user/danieruryan)
 
-- 🔭 Working on client projects at [Capco](https://capco.com/)
+- 🔭 Working on a great product in the data center space
 - 🌱 Learning: Rust, Godot, Procreate, and Aesprite
 <!-- - 👯 Looking to collaborate on a low-key development "tools and lifestyle" podcast. (open a PR and we'll talk) -->
 <!-- - 🤔 Looking for help with building a chat application with [this](https://www.npmjs.com/package/owoify-js). -->
